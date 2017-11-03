@@ -1,2 +1,2 @@
 # AfiliJsonFormatter
-json formatter single html page
+json formatter single html page.
